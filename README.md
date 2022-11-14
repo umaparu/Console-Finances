@@ -14,8 +14,10 @@ Financial analysis
 
 
 * The URL of the deployed application.
+https://umaparu.github.io/Console-Finances/
 
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+https://github.com/umaparu/Console-Finances
 
 ---
 
